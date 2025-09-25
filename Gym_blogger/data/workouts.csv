@@ -1,0 +1,4 @@
+id,timestamp,date,exercise,set_num,reps,weight,unit,notes,volume
+b3cece9f-3da6-4673-aa6a-6a96c0d54e3e,2025-09-16T19:02:53.708753,2025-09-16,Bench press,1,8,50.0,kg,,400.0
+ca1fd924-082f-4965-a2d5-9f078810c268,2025-09-16T19:02:53.708753,2025-09-16,Bench press,2,8,50.0,kg,,400.0
+afce8a8d-fa59-46df-846f-428054d1f1cf,2025-09-16T19:02:53.708753,2025-09-16,Bench press,3,8,50.0,kg,,400.0
